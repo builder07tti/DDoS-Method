@@ -1,0 +1,2 @@
+# DDoS-Method
+HTTP ATTACK METHOD
